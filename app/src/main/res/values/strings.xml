@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Taskio</string>
+    <string name="login_text">Log In</string>
 </resources>
